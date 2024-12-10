@@ -1,8 +1,9 @@
->> 🏞️ Trekking Adventure Website <<
+# 🏞️ Trekking Adventure Website 
 
-Welcome to the GitHub repository for the Trekking Adventure Website, a web application designed for outdoor enthusiasts! This project features a fully functional landing page showcasing trek details and activities, along with a working login/signup system that securely stores user data using PHP and a MySQL database.
+**Welcome to the GitHub repository for the Trekking Adventure Website, a web application designed for outdoor enthusiasts! This project features a fully functional landing page showcasing trek details and activities, along with a working login/signup system that securely stores user data using PHP and a MySQL database.**
 
->> 🚀 Features
+
+# >> 🚀 Features
 
 1. Landing Page
 - Dynamic trek details display with descriptions, locations, and images.
@@ -13,12 +14,14 @@ Welcome to the GitHub repository for the Trekking Adventure Website, a web appli
 - Data Storage: User data is stored in a MySQL database using PHP.
 - Form Validation: Client-side and server-side validation for secure input handling.
 
->> 🛠️ Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Database: MySQL
 
->> 🚧 Installation
+>> 🛠️ Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
+
+
+# >> 🚧 Installation
 [ I HAVE USED XAMPP FOR THIS PROJECT , YOU CAN ALSO USE SIMILAR LOCAL SERVER ENVIRONMENT ]
 
 1.Clone the Repository: (git clone https://github.com/Neel0171/Web_Tech_Frontend.git)
