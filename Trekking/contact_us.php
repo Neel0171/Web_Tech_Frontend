@@ -2,7 +2,7 @@
     $db_hostname="Localhost";
     $db_username="root";
     $db_password="";
-    $db_name="trekk";
+    $db_name="trekking";
 
     $conn=mysqli_connect($db_hostname,$db_username,$db_password,$db_name);
     if(!$conn)
