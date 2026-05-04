@@ -37,6 +37,23 @@ Launch XAMPP and start Apache and MySQL.
 - Create a new database (e.g., trekking).
 - Import the provided .sql file if available or create required tables manually.
 
+DB Query : 
+
+CREATE TABLE users (
+ id INT AUTO_INCREMENT PRIMARY KEY,
+ username VARCHAR(100),
+ email VARCHAR(100),
+ password VARCHAR(255)
+);
+
+CREATE TABLE contact (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(100),
+    Email VARCHAR(100),
+    Phone VARCHAR(20),
+    Subject TEXT
+);
+
 5.Run the Application:
 Open a web browser and navigate to http://localhost/Web_Tech_Frontend.
 
